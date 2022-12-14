@@ -1,3 +1,8 @@
+.board-wrapper {
+  border: 1px solid orange;
+  border-radius: 10px;
+}
+
 .board-row::after {
   clear: both;
   content: "";
